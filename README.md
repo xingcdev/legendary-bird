@@ -29,7 +29,7 @@ sudo apt-get install tk
 
 ## Usage
 
-Launch the game typing on the terminal:
+Launch the game by typing on the terminal:
 
 ```shell
 python3 main.py
