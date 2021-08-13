@@ -9,6 +9,8 @@ A Flappy Bird-inspired game built with Python 3
 
 ## Demo
 
+https://user-images.githubusercontent.com/60323726/129377863-36f06022-ac2c-42e3-b717-749b818080a5.mp4
+
 ## Installation
 
 Install the tkinter package
