@@ -2,36 +2,25 @@
 
 A Flappy Bird-inspired game built with Python 3
 
-## Requirements
-
-- Python 3.9.6
-- Tkinter
-
-## Demo
-
 https://user-images.githubusercontent.com/60323726/129377863-36f06022-ac2c-42e3-b717-749b818080a5.mp4
 
-## Installation
+## Get started
 
-Install the tkinter package
+Install Tkinter on MacOS using Homebrew:
 
-In Arch Linux:
-
-```shell
-sudo pacman -S tk
+```bash
+brew install python-tk
 ```
 
-If you are on another Linux distro such as Debian or a Debian based distro:
+If you're on a Debian based distro:
 
-```shell
-sudo apt-get install tk
+```bash
+sudo apt install tk
 ```
 
-## Usage
+Launch the game:
 
-Launch the game by typing on the terminal:
-
-```shell
+```bash
 python3 main.py
 ```
 
